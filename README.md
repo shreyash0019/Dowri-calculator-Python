@@ -3,13 +3,13 @@
 This is a simple Python project to calculate dowry based on user inputs such as age, profession, education, monthly salary, residence, and country. The dowry is calculated using a range of factors and is limited between ₹1,00,000 and ₹15,00,000.
 
 ## **Disclaimer**
-This project is purely for fun and is intended to showcase an understanding of Python concepts like:
+⚠️⚠️This project is purely for fun and is intended to showcase an understanding of Python concepts like:
 - Conditional statements
 - `match` case expressions
 - Functions
 - User input handling
 
-**Important Note:** Dowry is a punishable crime under law, and this project does not promote or support the practice of dowry in any way. Dowry should not be taken or given under any circumstances.
+**Important Note:** ⚠️ Dowry is a punishable crime under law, and this project does not promote or support the practice of dowry in any way. Dowry should not be taken or given under any circumstances.
 
 ## **Features**
 - Menu-based selection for user input.

@@ -16,6 +16,16 @@ This is a simple Python project to calculate dowry based on user inputs such as 
 - Dowry calculation using various multipliers based on selected options.
 - Dowry amount limited between ₹1,00,000 and ₹15,00,000.
 
+## **Project Structure**
+```
+Dowri-calculator-Python/
+│
+├── main.py         # Entry point of the application
+├── inputs.py       # Handles user inputs
+├── calculations.py # Contains calculation logic using `match` statements
+└── utils.py        # Utility functions (e.g., formatting separators)
+```
+
 ## **How to Run the Program**
 1. Clone the repository:
    ```bash
